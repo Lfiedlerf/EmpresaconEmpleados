@@ -1,0 +1,25 @@
+# Archivos generados por Eclipse/STS
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración específica de IDE
+.idea/
+*.iml
+.vscode/
